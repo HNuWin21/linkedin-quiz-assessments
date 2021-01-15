@@ -168,7 +168,7 @@ If hidden is selected the courser stays hidden no matter what.
 - [ ] Click the Switch Row/Column button.
 - [ ] Click the Refresh Data button.
 - [ ] Click the Select Data button.
-- [ ] Click the Edit Data button.
+- [x] Click the Edit Data button.
 
 #### Q21. Which view lets you see additional information on a second monitor when delivering a presentation?
 
